@@ -1,0 +1,2 @@
+# Spring_Data_Jpa_QueryDsl
+springjpa无缝整合queryDsl查询框架
